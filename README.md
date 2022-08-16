@@ -27,6 +27,14 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VZIABL8T1_AWasnJe7T2ooiHhVVXnBES/view?usp=sharing)
 - 😄 Checkout my Portfolio:
 
+<h3>Connect with me:</h3>
+<div >
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-muthal-41954a1a1/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamuthal.2208@gmail.com)
+  
+</div>
+
 ### 🛠 &nbsp;Tech Stack
 
 
