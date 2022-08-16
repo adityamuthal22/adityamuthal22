@@ -1,10 +1,15 @@
-### Hi there 👋
 
 
-**adityamuthal22/adityamuthal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi , I'm Aditya Muthal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full+Stack+Web+Developer;HTML%20|CSS%20|%20JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300px" /></p>
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +18,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+*/
+-->
+
+- 🌱 I’m currently learning ReactJs
+- 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap**
+- 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VZIABL8T1_AWasnJe7T2ooiHhVVXnBES/view?usp=sharing)
+- 😄 Checkout my Portfolio:
+
+### 🛠 &nbsp;Tech Stack
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 
 
 ## Github Stats
@@ -20,3 +44,13 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=adityamuthal22&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamuthal22&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamuthal22&layout=compact&theme=github_dark"/>|
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=adityamuthal22" alt="adityamuthal22" /></a> </p>
+<br>
+
+<hr/>
+
+Credit: [adityamuthal22](https://github.com/adityamuthal22)
+
+Last Edited on: 16/08/2022
+
