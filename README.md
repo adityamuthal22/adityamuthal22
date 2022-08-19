@@ -25,7 +25,7 @@
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap**
 - 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VZIABL8T1_AWasnJe7T2ooiHhVVXnBES/view?usp=sharing)
-- 😄 Checkout my Portfolio:
+- 😄 Checkout my Portfolio:[Portfolio](https://aditya-muthal-portfolio.netlify.app/index.html)
 
 <h3>Connect with me:</h3>
 <div >
