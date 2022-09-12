@@ -22,7 +22,7 @@
 -->
 
 - 🌱 I’m currently learning ReactJs
-- 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap**
+- 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap, Chakra-UI**
 - 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VZIABL8T1_AWasnJe7T2ooiHhVVXnBES/view?usp=sharing)
 - 😄 Checkout my Portfolio:[Portfolio](https://aditya-muthal-portfolio.netlify.app/index.html)
@@ -60,5 +60,5 @@
 
 Credit: [adityamuthal22](https://github.com/adityamuthal22)
 
-Last Edited on: 16/08/2022
+Last Edited on: 12/09/2022
 
