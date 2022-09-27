@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap, Chakra-UI**
 - 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VZIABL8T1_AWasnJe7T2ooiHhVVXnBES/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mmqt4wNkDMJPbJStj2H5CLsLsYv_bY3K/view?usp=sharing)
 - 😄 Checkout my Portfolio:[Portfolio](https://adityamuthal-portfolio.netlify.app/)
 
 <h3>Connect with me:</h3>
