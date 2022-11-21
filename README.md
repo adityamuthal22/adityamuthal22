@@ -21,7 +21,7 @@
 */
 -->
 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs & Redux
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap, Chakra-UI**
 - 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mmqt4wNkDMJPbJStj2H5CLsLsYv_bY3K/view?usp=sharing)
@@ -65,5 +65,5 @@
 
 Credit: [adityamuthal22](https://github.com/adityamuthal22)
 
-Last Edited on: 12/09/2022
+Last Edited on: 21/11/2022
 
