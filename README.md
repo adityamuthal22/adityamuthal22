@@ -22,7 +22,7 @@
 -->
 
 - 🌱 I’m currently learning ReactJs & Redux
-- 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap, Chakra-UI**
+- 💬 Ask me about **HTML,CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Bootstrap, Chakra-UI**
 - 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mmqt4wNkDMJPbJStj2H5CLsLsYv_bY3K/view?usp=sharing)
 - 😄 Checkout my Portfolio:[Portfolio](https://adityamuthal-portfolio.netlify.app/)
@@ -41,8 +41,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Expressjs](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
@@ -65,5 +68,5 @@
 
 Credit: [adityamuthal22](https://github.com/adityamuthal22)
 
-Last Edited on: 21/11/2022
+Last Edited on: 06/01/2023
 
