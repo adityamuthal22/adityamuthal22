@@ -7,7 +7,7 @@
 </p>
 <hr/>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300px" /></p>
+<p><img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="adam-pw" height="300px" /></p>
 
 <!--
 - 🔭 I’m currently working on ...
