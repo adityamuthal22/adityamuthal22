@@ -21,7 +21,7 @@
 */
 -->
 
-- 🌱 I’m currently learning ReactJs & Redux
+- 🌱 I’m currently learning Backend Part
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, Bootstrap, Chakra-UI**
 - 📫 Reach out to me at: **adityamuthal.2208@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mmqt4wNkDMJPbJStj2H5CLsLsYv_bY3K/view?usp=sharing)
